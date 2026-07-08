@@ -1,0 +1,1197 @@
+Day0
+Normal item 1
+SellIn: 20
+Quality: 10
+
+Normal item 2
+SellIn: 0
+Quality: 25
+
+Normal item 3
+SellIn: -1
+Quality: 1
+
+Normal item 3
+SellIn: 10
+Quality: 0
+
+Normal item 5
+SellIn: 10
+Quality: 50
+
+Aged Brie
+SellIn: 10
+Quality: 0
+
+Aged Brie
+SellIn: 10
+Quality: 49
+
+Aged Brie
+SellIn: 10
+Quality: 50
+
+Sulfuras, Hand of Ragnaros
+SellIn: 70
+Quality: 80
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 15
+Quality: 45
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 5
+Quality: 45
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -1
+Quality: 45
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 1
+Quality: 45
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 10
+Quality: 45
+
+Day1
+Normal item 1
+SellIn: 19
+Quality: 9
+
+Normal item 2
+SellIn: -1
+Quality: 23
+
+Normal item 3
+SellIn: -2
+Quality: 0
+
+Normal item 3
+SellIn: 9
+Quality: 0
+
+Normal item 5
+SellIn: 9
+Quality: 49
+
+Aged Brie
+SellIn: 9
+Quality: 1
+
+Aged Brie
+SellIn: 9
+Quality: 50
+
+Aged Brie
+SellIn: 9
+Quality: 50
+
+Sulfuras, Hand of Ragnaros
+SellIn: 70
+Quality: 80
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 14
+Quality: 46
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 4
+Quality: 48
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -2
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 0
+Quality: 48
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 9
+Quality: 47
+
+Day2
+Normal item 1
+SellIn: 18
+Quality: 8
+
+Normal item 2
+SellIn: -2
+Quality: 21
+
+Normal item 3
+SellIn: -3
+Quality: 0
+
+Normal item 3
+SellIn: 8
+Quality: 0
+
+Normal item 5
+SellIn: 8
+Quality: 48
+
+Aged Brie
+SellIn: 8
+Quality: 2
+
+Aged Brie
+SellIn: 8
+Quality: 50
+
+Aged Brie
+SellIn: 8
+Quality: 50
+
+Sulfuras, Hand of Ragnaros
+SellIn: 70
+Quality: 80
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 13
+Quality: 47
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 3
+Quality: 50
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -3
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -1
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 8
+Quality: 49
+
+Day3
+Normal item 1
+SellIn: 17
+Quality: 7
+
+Normal item 2
+SellIn: -3
+Quality: 19
+
+Normal item 3
+SellIn: -4
+Quality: 0
+
+Normal item 3
+SellIn: 7
+Quality: 0
+
+Normal item 5
+SellIn: 7
+Quality: 47
+
+Aged Brie
+SellIn: 7
+Quality: 3
+
+Aged Brie
+SellIn: 7
+Quality: 50
+
+Aged Brie
+SellIn: 7
+Quality: 50
+
+Sulfuras, Hand of Ragnaros
+SellIn: 70
+Quality: 80
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 12
+Quality: 48
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 2
+Quality: 50
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -4
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -2
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 7
+Quality: 50
+
+Day4
+Normal item 1
+SellIn: 16
+Quality: 6
+
+Normal item 2
+SellIn: -4
+Quality: 17
+
+Normal item 3
+SellIn: -5
+Quality: 0
+
+Normal item 3
+SellIn: 6
+Quality: 0
+
+Normal item 5
+SellIn: 6
+Quality: 46
+
+Aged Brie
+SellIn: 6
+Quality: 4
+
+Aged Brie
+SellIn: 6
+Quality: 50
+
+Aged Brie
+SellIn: 6
+Quality: 50
+
+Sulfuras, Hand of Ragnaros
+SellIn: 70
+Quality: 80
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 11
+Quality: 49
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 1
+Quality: 50
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -5
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -3
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 6
+Quality: 50
+
+Day5
+Normal item 1
+SellIn: 15
+Quality: 5
+
+Normal item 2
+SellIn: -5
+Quality: 15
+
+Normal item 3
+SellIn: -6
+Quality: 0
+
+Normal item 3
+SellIn: 5
+Quality: 0
+
+Normal item 5
+SellIn: 5
+Quality: 45
+
+Aged Brie
+SellIn: 5
+Quality: 5
+
+Aged Brie
+SellIn: 5
+Quality: 50
+
+Aged Brie
+SellIn: 5
+Quality: 50
+
+Sulfuras, Hand of Ragnaros
+SellIn: 70
+Quality: 80
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 10
+Quality: 50
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 0
+Quality: 50
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -6
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -4
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 5
+Quality: 50
+
+Day6
+Normal item 1
+SellIn: 14
+Quality: 4
+
+Normal item 2
+SellIn: -6
+Quality: 13
+
+Normal item 3
+SellIn: -7
+Quality: 0
+
+Normal item 3
+SellIn: 4
+Quality: 0
+
+Normal item 5
+SellIn: 4
+Quality: 44
+
+Aged Brie
+SellIn: 4
+Quality: 6
+
+Aged Brie
+SellIn: 4
+Quality: 50
+
+Aged Brie
+SellIn: 4
+Quality: 50
+
+Sulfuras, Hand of Ragnaros
+SellIn: 70
+Quality: 80
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 9
+Quality: 50
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -1
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -7
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -5
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 4
+Quality: 50
+
+Day7
+Normal item 1
+SellIn: 13
+Quality: 3
+
+Normal item 2
+SellIn: -7
+Quality: 11
+
+Normal item 3
+SellIn: -8
+Quality: 0
+
+Normal item 3
+SellIn: 3
+Quality: 0
+
+Normal item 5
+SellIn: 3
+Quality: 43
+
+Aged Brie
+SellIn: 3
+Quality: 7
+
+Aged Brie
+SellIn: 3
+Quality: 50
+
+Aged Brie
+SellIn: 3
+Quality: 50
+
+Sulfuras, Hand of Ragnaros
+SellIn: 70
+Quality: 80
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 8
+Quality: 50
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -2
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -8
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -6
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 3
+Quality: 50
+
+Day8
+Normal item 1
+SellIn: 12
+Quality: 2
+
+Normal item 2
+SellIn: -8
+Quality: 9
+
+Normal item 3
+SellIn: -9
+Quality: 0
+
+Normal item 3
+SellIn: 2
+Quality: 0
+
+Normal item 5
+SellIn: 2
+Quality: 42
+
+Aged Brie
+SellIn: 2
+Quality: 8
+
+Aged Brie
+SellIn: 2
+Quality: 50
+
+Aged Brie
+SellIn: 2
+Quality: 50
+
+Sulfuras, Hand of Ragnaros
+SellIn: 70
+Quality: 80
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 7
+Quality: 50
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -3
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -9
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -7
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 2
+Quality: 50
+
+Day9
+Normal item 1
+SellIn: 11
+Quality: 1
+
+Normal item 2
+SellIn: -9
+Quality: 7
+
+Normal item 3
+SellIn: -10
+Quality: 0
+
+Normal item 3
+SellIn: 1
+Quality: 0
+
+Normal item 5
+SellIn: 1
+Quality: 41
+
+Aged Brie
+SellIn: 1
+Quality: 9
+
+Aged Brie
+SellIn: 1
+Quality: 50
+
+Aged Brie
+SellIn: 1
+Quality: 50
+
+Sulfuras, Hand of Ragnaros
+SellIn: 70
+Quality: 80
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 6
+Quality: 50
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -4
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -10
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -8
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 1
+Quality: 50
+
+Day10
+Normal item 1
+SellIn: 10
+Quality: 0
+
+Normal item 2
+SellIn: -10
+Quality: 5
+
+Normal item 3
+SellIn: -11
+Quality: 0
+
+Normal item 3
+SellIn: 0
+Quality: 0
+
+Normal item 5
+SellIn: 0
+Quality: 40
+
+Aged Brie
+SellIn: 0
+Quality: 10
+
+Aged Brie
+SellIn: 0
+Quality: 50
+
+Aged Brie
+SellIn: 0
+Quality: 50
+
+Sulfuras, Hand of Ragnaros
+SellIn: 70
+Quality: 80
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 5
+Quality: 50
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -5
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -11
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -9
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 0
+Quality: 50
+
+Day11
+Normal item 1
+SellIn: 9
+Quality: 0
+
+Normal item 2
+SellIn: -11
+Quality: 3
+
+Normal item 3
+SellIn: -12
+Quality: 0
+
+Normal item 3
+SellIn: -1
+Quality: 0
+
+Normal item 5
+SellIn: -1
+Quality: 38
+
+Aged Brie
+SellIn: -1
+Quality: 12
+
+Aged Brie
+SellIn: -1
+Quality: 50
+
+Aged Brie
+SellIn: -1
+Quality: 50
+
+Sulfuras, Hand of Ragnaros
+SellIn: 70
+Quality: 80
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 4
+Quality: 50
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -6
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -12
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -10
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -1
+Quality: 0
+
+Day12
+Normal item 1
+SellIn: 8
+Quality: 0
+
+Normal item 2
+SellIn: -12
+Quality: 1
+
+Normal item 3
+SellIn: -13
+Quality: 0
+
+Normal item 3
+SellIn: -2
+Quality: 0
+
+Normal item 5
+SellIn: -2
+Quality: 36
+
+Aged Brie
+SellIn: -2
+Quality: 14
+
+Aged Brie
+SellIn: -2
+Quality: 50
+
+Aged Brie
+SellIn: -2
+Quality: 50
+
+Sulfuras, Hand of Ragnaros
+SellIn: 70
+Quality: 80
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 3
+Quality: 50
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -7
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -13
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -11
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -2
+Quality: 0
+
+Day13
+Normal item 1
+SellIn: 7
+Quality: 0
+
+Normal item 2
+SellIn: -13
+Quality: 0
+
+Normal item 3
+SellIn: -14
+Quality: 0
+
+Normal item 3
+SellIn: -3
+Quality: 0
+
+Normal item 5
+SellIn: -3
+Quality: 34
+
+Aged Brie
+SellIn: -3
+Quality: 16
+
+Aged Brie
+SellIn: -3
+Quality: 50
+
+Aged Brie
+SellIn: -3
+Quality: 50
+
+Sulfuras, Hand of Ragnaros
+SellIn: 70
+Quality: 80
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 2
+Quality: 50
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -8
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -14
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -12
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -3
+Quality: 0
+
+Day14
+Normal item 1
+SellIn: 6
+Quality: 0
+
+Normal item 2
+SellIn: -14
+Quality: 0
+
+Normal item 3
+SellIn: -15
+Quality: 0
+
+Normal item 3
+SellIn: -4
+Quality: 0
+
+Normal item 5
+SellIn: -4
+Quality: 32
+
+Aged Brie
+SellIn: -4
+Quality: 18
+
+Aged Brie
+SellIn: -4
+Quality: 50
+
+Aged Brie
+SellIn: -4
+Quality: 50
+
+Sulfuras, Hand of Ragnaros
+SellIn: 70
+Quality: 80
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 1
+Quality: 50
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -9
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -15
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -13
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -4
+Quality: 0
+
+Day15
+Normal item 1
+SellIn: 5
+Quality: 0
+
+Normal item 2
+SellIn: -15
+Quality: 0
+
+Normal item 3
+SellIn: -16
+Quality: 0
+
+Normal item 3
+SellIn: -5
+Quality: 0
+
+Normal item 5
+SellIn: -5
+Quality: 30
+
+Aged Brie
+SellIn: -5
+Quality: 20
+
+Aged Brie
+SellIn: -5
+Quality: 50
+
+Aged Brie
+SellIn: -5
+Quality: 50
+
+Sulfuras, Hand of Ragnaros
+SellIn: 70
+Quality: 80
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: 0
+Quality: 50
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -10
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -16
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -14
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -5
+Quality: 0
+
+Day16
+Normal item 1
+SellIn: 4
+Quality: 0
+
+Normal item 2
+SellIn: -16
+Quality: 0
+
+Normal item 3
+SellIn: -17
+Quality: 0
+
+Normal item 3
+SellIn: -6
+Quality: 0
+
+Normal item 5
+SellIn: -6
+Quality: 28
+
+Aged Brie
+SellIn: -6
+Quality: 22
+
+Aged Brie
+SellIn: -6
+Quality: 50
+
+Aged Brie
+SellIn: -6
+Quality: 50
+
+Sulfuras, Hand of Ragnaros
+SellIn: 70
+Quality: 80
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -1
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -11
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -17
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -15
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -6
+Quality: 0
+
+Day17
+Normal item 1
+SellIn: 3
+Quality: 0
+
+Normal item 2
+SellIn: -17
+Quality: 0
+
+Normal item 3
+SellIn: -18
+Quality: 0
+
+Normal item 3
+SellIn: -7
+Quality: 0
+
+Normal item 5
+SellIn: -7
+Quality: 26
+
+Aged Brie
+SellIn: -7
+Quality: 24
+
+Aged Brie
+SellIn: -7
+Quality: 50
+
+Aged Brie
+SellIn: -7
+Quality: 50
+
+Sulfuras, Hand of Ragnaros
+SellIn: 70
+Quality: 80
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -2
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -12
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -18
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -16
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -7
+Quality: 0
+
+Day18
+Normal item 1
+SellIn: 2
+Quality: 0
+
+Normal item 2
+SellIn: -18
+Quality: 0
+
+Normal item 3
+SellIn: -19
+Quality: 0
+
+Normal item 3
+SellIn: -8
+Quality: 0
+
+Normal item 5
+SellIn: -8
+Quality: 24
+
+Aged Brie
+SellIn: -8
+Quality: 26
+
+Aged Brie
+SellIn: -8
+Quality: 50
+
+Aged Brie
+SellIn: -8
+Quality: 50
+
+Sulfuras, Hand of Ragnaros
+SellIn: 70
+Quality: 80
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -3
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -13
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -19
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -17
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -8
+Quality: 0
+
+Day19
+Normal item 1
+SellIn: 1
+Quality: 0
+
+Normal item 2
+SellIn: -19
+Quality: 0
+
+Normal item 3
+SellIn: -20
+Quality: 0
+
+Normal item 3
+SellIn: -9
+Quality: 0
+
+Normal item 5
+SellIn: -9
+Quality: 22
+
+Aged Brie
+SellIn: -9
+Quality: 28
+
+Aged Brie
+SellIn: -9
+Quality: 50
+
+Aged Brie
+SellIn: -9
+Quality: 50
+
+Sulfuras, Hand of Ragnaros
+SellIn: 70
+Quality: 80
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -4
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -14
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -20
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -18
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -9
+Quality: 0
+
+Day20
+Normal item 1
+SellIn: 0
+Quality: 0
+
+Normal item 2
+SellIn: -20
+Quality: 0
+
+Normal item 3
+SellIn: -21
+Quality: 0
+
+Normal item 3
+SellIn: -10
+Quality: 0
+
+Normal item 5
+SellIn: -10
+Quality: 20
+
+Aged Brie
+SellIn: -10
+Quality: 30
+
+Aged Brie
+SellIn: -10
+Quality: 50
+
+Aged Brie
+SellIn: -10
+Quality: 50
+
+Sulfuras, Hand of Ragnaros
+SellIn: 70
+Quality: 80
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -5
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -15
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -21
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -19
+Quality: 0
+
+Backstage passes to a TAFKAL80ETC concert
+SellIn: -10
+Quality: 0
+
