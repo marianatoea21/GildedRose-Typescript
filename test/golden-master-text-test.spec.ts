@@ -96,13 +96,7 @@ describe("Golden Master", () => {
 
             output += `Day${i}\n`;
 
-            //GildedRoseInn.updateQuality();
-            //console.log("Day " + i);
             for (let j = 0; j < items.length; j++) {
-                // console.log(items[j].name);
-                // console.log("Sellin: " + items[j].sellIn);
-                // console.log("Quality" + items[j].quality);
-                // console.log("");
                 output += `${items[j].name}\n`;
                 output += `SellIn: ${items[j].sellIn}\n`;
                 output += `Quality: ${items[j].quality}\n\n`;
