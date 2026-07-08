@@ -8,4 +8,11 @@ describe('Gilded Rose', function () {
         const items = gildedRose.updateQuality();
         expect(items[0].name).to.equal('foo');
     });
+
+    it('no items in Gilded Rose Inn', function() {
+        const gildedRose = new GildedRose();
+        gildedRose.updateQuality();
+        expect(gildedRose.items.length).to.equal(0);
+    });
+
 });
