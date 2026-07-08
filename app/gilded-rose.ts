@@ -27,6 +27,9 @@ export class GildedRose {
                     break;
                 case "Backstage passes to a TAFKAL80ETC concert":
                     updateBackstagePassQuality(item);
+                    break
+                case "Conjured Mana Cake":
+                    updateConjuredManaCake(item);
                     break;
                 default:
                     updateNormalItemQuality(item);
@@ -78,5 +81,17 @@ function updateBackstagePassQuality(item: Item ) {
 
     if (item.sellIn < 0) {
         item.quality = 0;
+    }
+}
+
+function updateConjuredManaCake(item: Item ) {
+    item.sellIn --;
+
+    if (item.quality > 1) {
+        item.quality -= 2;
+    }
+
+    if (item.quality > 1 && item.sellIn < 0) {
+        item.quality =- 2;
     }
 }
